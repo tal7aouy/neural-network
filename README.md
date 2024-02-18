@@ -78,6 +78,6 @@ Ankle boot  : 0.0
 ## 🚀 Run the Project
 
 ```sh
-git clone https://github.com/langLLM/neural-networks
+git clone https://github.com/tal7aouy/neural-network
 ```
 Examples for classification and regression are available in `demo.py`. To run it on the Fashion MNIST dataset, first run `mnist_prep.py` to download the data and then `mnist.py` to build the model. After that, run the relevant section of code in `demo.py`.
